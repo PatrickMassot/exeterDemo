@@ -1,0 +1,13 @@
+name = "exeterDemo"
+defaultTargets = ["ExeterDemo"]
+
+[leanOptions]
+pp.unicode.fun = true
+pp.proofs.withType = false
+
+[[require]]
+name = "verbose"
+git = "https://github.com/PatrickMassot/verbose-lean4.git"
+
+[[lean_lib]]
+name = "ExeterDemo"
