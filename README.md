@@ -15,3 +15,6 @@ Macbeth, as well as the
 
 If you would rather use Coq, see [waterproof](https://impermeable.github.io/).
 
+If you want to try this demo without installing Lean then you can
+[![Open the project in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/new/#https://github.com/patrickmassot/exeterDemo) 
+and use the file explorer to open the file `ExeterDemo/Demo.lean`.
